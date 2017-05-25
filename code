@@ -1,0 +1,16 @@
+ syntax on
+ set background=dark
+ filetype indent plugin on
+ set modeline
+
+ set nu
+ set fileencodings=utf-8,ucd-bom,gb18030,gbk,gb2312,cp936
+ set tabstop=4
+ set sts=4
+ set expandtab
+ set softtabstop=4
+ set shiftwidth=4
+ set autoindent
+ set cindent
+ set cinoptions={0,1s,t0,n-2,p2s,(03s,=.5s,>1s,=1s,:1s
+ colorscheme desert
